@@ -1,6 +1,8 @@
 # 4KPages-ANNOANSIC
 Herb Schildt's "The Annotated ANSI C Standard"
 
+[PDF](https://1drv.ms/b/c/ff234b6fa870c030/EUUU-fFmzhhIh8eVCA9muI0BWX7o7oA3DtFNHmspMH8YrA?e=IaJT1p)
+
 ![](https://github.com/KilianKegel/4KPages-ANNOANSIC/blob/main/images/ANNOANSIC_000.jpg) 
 ![](https://github.com/KilianKegel/4KPages-ANNOANSIC/blob/main/images/ANNOANSIC_001.jpg) 
 ![](https://github.com/KilianKegel/4KPages-ANNOANSIC/blob/main/images/ANNOANSIC_002.jpg) 
